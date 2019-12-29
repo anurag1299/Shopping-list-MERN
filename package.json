@@ -1,7 +1,7 @@
 {
-  "name": "Login and reg form",
+  "name": "mern_shopping_list",
   "version": "1.0.0",
-  "description": "Login and registration form build with MERN stack",
+  "description": "Shopping list built with the MERN stack",
   "main": "server.js",
   "scripts": {
     "client-install": "npm install --prefix client",
