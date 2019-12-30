@@ -53,7 +53,8 @@ class ItemModal extends Component {
         {this.props.isAuthenticated ? (
           <Button
             color='dark'
-            style={{ marginBottom: '2rem' }}
+            style={{ marginBottom: '2rem', backgroundImage:"linear-gradient(to top right, #6B5ACD, #83D1F2)" }}
+            
             onClick={this.toggle}
           >
             Add Item
