@@ -61,7 +61,7 @@ class AppNavbar extends Component {
       <div>
         <Navbar color='light' light expand='sm' className='mb-5' style={{backgroundImage:"linear-gradient(to top right, #6B5ACD, #83D1F2)"}}>
           <Container>
-            <NavbarBrand href='/'>Login & Registration</NavbarBrand>
+            <NavbarBrand href='/'>Shopping List</NavbarBrand>
             <NavbarToggler onClick={this.toggle} />
             <Collapse isOpen={this.state.isOpen} navbar>
               <Nav className='ml-auto' navbar>
