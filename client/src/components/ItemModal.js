@@ -76,7 +76,7 @@ class ItemModal extends Component {
                   placeholder='Add shopping item'
                   onChange={this.onChange}
                 />
-                <Button color='dark' style={{ marginTop: '2rem' }} block>
+                <Button color='dark' style={{ marginTop: '2rem', backgroundImage:"linear-gradient(to top right, #6B5ACD, #83D1F2)" }} block>
                   Add Item
                 </Button>
               </FormGroup>
